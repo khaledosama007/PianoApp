@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PianoGuruTask</string>
+    <string name="note_sequence_label">Note Sequence</string>
+    <string name="play_button_label">PLAY</string>
+    <string name="stop_label_button">STOP!</string>
+    <string name="no_note_error_msg">Enter at least one note</string>
+</resources>
